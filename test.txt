@@ -1,0 +1,6 @@
+{
+  "AadClientId": "c05b902f-ffbd-4f30-92fb-10232919cc17",
+  "AadSecret": "TTL8Q~NRzlsdsnexWWD73Q~93tstU5QlWLy1gb2h",
+  "AadTenantDomain": "M365x549871.onmicrosoft.com",
+  "AadTenantId": "3ffa2868-e267-4b81-82cd-2acda09a6546",
+}
